@@ -1,0 +1,31 @@
+{
+  "name": "split-controllers",
+  "version": "0.0.0",
+  "authors": [
+    "citizengit <kriss.heimanis@au.pwc.com>"
+  ],
+  "description": "separating concerns and implementing a global controller",
+  "main": "index.html",
+  "keywords": [
+    "angular",
+    "restangular",
+    "global",
+    "controllers",
+    "services"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bitfidget",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20",
+    "lodash": "~2.4.1",
+    "restangular": "~1.4.0"
+  }
+}
